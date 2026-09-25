@@ -1,0 +1,19 @@
+{
+  "name": "comp3018_module1_assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChanceParker1987/COMP3018_Module1_Assignment.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ChanceParker1987/COMP3018_Module1_Assignment/issues"
+  },
+  "homepage": "https://github.com/ChanceParker1987/COMP3018_Module1_Assignment#readme"
+}
